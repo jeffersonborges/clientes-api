@@ -1,4 +1,4 @@
-package br.com.jborges.clientesapi
+package br.com.jborges.clientesapi.models
 
 import jakarta.persistence.Entity
 import jakarta.persistence.GeneratedValue

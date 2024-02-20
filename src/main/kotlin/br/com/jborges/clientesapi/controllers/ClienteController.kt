@@ -1,5 +1,7 @@
-package br.com.jborges.clientesapi
+package br.com.jborges.clientesapi.controllers
 
+import br.com.jborges.clientesapi.models.ClienteModel
+import br.com.jborges.clientesapi.repositories.ClienteRepository
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.DeleteMapping
